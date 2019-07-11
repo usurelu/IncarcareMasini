@@ -1,0 +1,7 @@
+c:\users\usurelu\source\repos\IncarcareMasini\IncarcareMasini\obj\Debug\IncarcareMasini.csprojResolveAssemblyReference.cache
+c:\users\usurelu\source\repos\IncarcareMasini\IncarcareMasini\obj\Debug\IncarcareMasini.csproj.CoreCompileInputs.cache
+c:\users\usurelu\source\repos\IncarcareMasini\IncarcareMasini\bin\Debug\IncarcareMasini.exe.config
+c:\users\usurelu\source\repos\IncarcareMasini\IncarcareMasini\bin\Debug\IncarcareMasini.exe
+c:\users\usurelu\source\repos\IncarcareMasini\IncarcareMasini\bin\Debug\IncarcareMasini.pdb
+c:\users\usurelu\source\repos\IncarcareMasini\IncarcareMasini\obj\Debug\IncarcareMasini.exe
+c:\users\usurelu\source\repos\IncarcareMasini\IncarcareMasini\obj\Debug\IncarcareMasini.pdb
